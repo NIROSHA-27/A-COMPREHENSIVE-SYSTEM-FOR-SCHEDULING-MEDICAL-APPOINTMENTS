@@ -32,36 +32,39 @@ In today's fast changing world, managing medical appointments and services effic
 ## Problem statement 
 Current appointment scheduling systems depend on manual processes, leading to long wait times, inefficiency and communication gaps.
 Patients struggle with finding convenient appointment slots, healthcare providers  struggle with managing varying schedules, and valuable resources are wasted due to no-shows and not fully utilized time slots.
-
-![image](https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/assets/140961326/a9f8687a-295c-45f1-a8fa-9916e9dbe38a)
-
-## About the project
 Existing scheduling systems often lack intelligence in assigning appointments.
 
-The project involves a multifaceted set of challenges that need to be addressed to create an effective AI-powered system for medical appointments and services like optimizing appointment scheduling , predicting patient demand ,personalized patient experience and security.
+## About the project
 
+The project involves a multifaceted set of challenges that need to be addressed to create an effective AI-powered system for medical appointments and services like optimizing appointment scheduling , predicting patient demand ,personalized patient experience and security.
+We are cretaed a website for booking a appointments in a particular time period. By using 
+this they are imporve the hospital maintenance. In this project we are created the frontend and backend and also implemets the Aritifical Intelligents Algorithm. We complted this project by agile methodology. 
+We have collected data from Kalasalingam Hospital, and we are preparing to predict the number of patients that will come in the future."
+  
 
 ## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
-- explain with images and flowcharts
-- 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+For Front end we are used a HTML, CSS, JavaScript, BootStrap. For Backend we are used a PHP, MySQL. We implemeted the Deep Learing (LSTM Algorithm) for Perideing the how many paten will come in future. 
+
+Organized flow of work : 
+
+Front Hand
+Back Hand
+Implementation of AI
+Security
+Testing
 
 ## Techstacks used 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+`HTML` , `CSS` , `JavaScript` , `BootStrap` , `PHP` , `MYSQL` , `Logistic regression`
 
 ## How to run locally 
 explain detailed steps to run your project locally , example to run a react application 
-- step 1 : clone the repo 
-```
-npm install
-npm start
-```
+- step 1 : Created a Frontend using a HTML, CSS, JavaStript, Bootstrap
+- step 2 : Created a Backend using a PHP, MySql
+- Step 3 : Exporting the data from the database and convert into the .csv file  
+- Step 4 : Predict the number of patients that will come in the future using a LSTM Algorithm.
 
 # What's next ?
-tell the future plan that you have for the project , tell the updates that you would wish to bring
+We aim to enhance this project by automating data extraction from the backend and implementing additional AI features.
 
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.

@@ -30,9 +30,16 @@ In today's fast changing world, managing medical appointments and services effic
 </div>
 
 ## Problem statement 
-mention the problem , and mention the severity of the problem and why we need solution for that  , mention which gorup of people face that problem
+Current appointment scheduling systems depend on manual processes, leading to long wait times, inefficiency and communication gaps.
+Patients struggle with finding convenient appointment slots, healthcare providers  struggle with managing varying schedules, and valuable resources are wasted due to no-shows and not fully utilized time slots.
+
+![image](https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/assets/140961326/a9f8687a-295c-45f1-a8fa-9916e9dbe38a)
+
 ## About the project
-mention few details and features of the project , how it is solving the problem 
+Existing scheduling systems often lack intelligence in assigning appointments.
+
+The project involves a multifaceted set of challenges that need to be addressed to create an effective AI-powered system for medical appointments and services like optimizing appointment scheduling , predicting patient demand ,personalized patient experience and security.
+
 
 ## Technical implemntaion 
 mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach

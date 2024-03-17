@@ -1,10 +1,10 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> A COMPREHENSIVE SYSTEM FOR SCHEDULING MEDICAL APPOINTMENTS AND SERVICES USING ARTIFICAL INTELLIGENT </a><br>
+        <a href="[https://www.google.com](https://sivakumar111.github.io/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/#)"> A COMPREHENSIVE SYSTEM FOR SCHEDULING MEDICAL APPOINTMENTS AND SERVICES USING ARTIFICAL INTELLIGENT </a><br>
     </b>⭐️⭐️⭐️⭐️⭐️ <br>
 </h1>
 
-# [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+# [`Website link`]([http://www.google.com](https://sivakumar111.github.io/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/#))  [`Demo video link `](http://www.google.com) [`Other links `]([http://www.google.com](https://colab.research.google.com/drive/1PekSq-wRtHq_nrk40CbfCoyTtVByPsNb?usp=sharing)) 
 In today's fast changing world, managing medical appointments and services efficiently is crucial for both healthcare providers and patients.By using artificial intelligence, we can create a comprehensive system that changes medical appointment scheduling. By considering factors like patient preferences, healthcare provider availability, medical service requirements, and even historical data, the system can intelligently recommend suitable time slots for appointments. 
 
 ## Team Details

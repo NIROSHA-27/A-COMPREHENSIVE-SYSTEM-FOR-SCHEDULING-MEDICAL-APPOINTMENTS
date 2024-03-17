@@ -20,13 +20,13 @@ In today's fast changing world, managing medical appointments and services effic
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/11.png?raw=true" alt="Image 1" style="width: 30%; margin: 5px;">
     <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/12.png?raw=true" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/13.png?raw=true" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/14.png?raw=true" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/15.png?raw=true" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/16.png?raw=true" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/17.png?raw=true" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/18.png?raw=true" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/19.png?raw=true" alt="Image 2" style="width: 30%; margin: 5px;">
 </div>
 
 ## Problem statement 

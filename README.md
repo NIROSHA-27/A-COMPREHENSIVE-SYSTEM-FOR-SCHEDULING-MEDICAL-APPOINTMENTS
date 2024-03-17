@@ -47,11 +47,11 @@ For Front end we are used a HTML, CSS, JavaScript, BootStrap. For Backend we are
 
 Organized flow of work : 
 
-Front Hand
-Back Hand
-Implementation of AI
-Security
-Testing
+Front Hand, 
+Back Hand,
+Implementation of AI,
+Security,
+Testing.
 
 ## Techstacks used 
 `HTML` , `CSS` , `JavaScript` , `BootStrap` , `PHP` , `MYSQL` , `Logistic regression`

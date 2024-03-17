@@ -18,8 +18,8 @@ In today's fast changing world, managing medical appointments and services effic
 |  MUDDE KISHORE              | Kishoremudde@gmail.com      |
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://private-user-images.githubusercontent.com/140961326/313442013-4eb65694-b6c5-45cb-82a5-6364e285fc16.png" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://private-user-images.githubusercontent.com/140961326/313442154-8d6ae44b-6e2d-452f-ab3f-420ef7487939.png" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/11.png?raw=true" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/blob/main/assets/12.png?raw=true" alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="" alt="Image 1" style="width: 30%; margin: 5px;">

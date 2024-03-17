@@ -8,13 +8,14 @@
 In today's fast changing world, managing medical appointments and services efficiently is crucial for both healthcare providers and patients.By using artificial intelligence, we can create a comprehensive system that changes medical appointment scheduling. By considering factors like patient preferences, healthcare provider availability, medical service requirements, and even historical data, the system can intelligently recommend suitable time slots for appointments. 
 
 ## Team Details
-`Team number` : VH000
+`Team number` : VH238
 
 | Name    | Email           |
-|---------|-----------------|
-| person1 | person1@gmail.com |
-| person2 | person2@gmail.com |
-| person3 | person3@gmail.com |
+|-----------------------------|-----------------------------|
+|  KOVVURI SIVA KUMAR REDDY   | kovvurisiva111@gmail.com    |
+|  TANGUDU AAKASH             | aakashtangudu@gmail.com     |
+|  BATTULA SAITEJA            | saitejabattula576@gmail.com |
+|  MUDDE KISHORE              | Kishoremudde@gmail.com      |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">

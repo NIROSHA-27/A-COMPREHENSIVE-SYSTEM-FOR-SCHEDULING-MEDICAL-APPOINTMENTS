@@ -5,7 +5,11 @@
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
-mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
+In today's fast changing world, managing medical appointments and services efficiently is crucial for both healthcare providers and patients.By using artificial intelligence, we can create a comprehensive system that changes medical appointment scheduling. By considering factors like patient preferences, healthcare provider availability, medical service requirements, and even historical data, the system can intelligently recommend suitable time slots for appointments. 
+
+This not only reduces the overbooking but also enhances patient satisfaction by offering scheduling options and also reduces the burden on healthcare staff. 
+![image](https://github.com/sivakumar111/A-COMPREHENSIVE-SYSTEM-FOR-SCHEDULING-MEDICAL-APPOINTMENTS-AND-SERVICES-USING-ARTIFICAL-INTELLIGENT/assets/140961326/a7511cbb-9a29-4f74-a1e9-47e910a2604c)
+
 ## Team Details
 `Team number` : VH000
 
